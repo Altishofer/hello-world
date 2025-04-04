@@ -22,3 +22,39 @@ class Sandrin:
         self._name = "Sandrin"
         self._hobby = "I wish I had one"
 ```
+
+## Expectations
+
+- Use **R** for data analysis & bioinformatics  
+- Apply **AI** to biological datasets  
+- Work in **Python + R** environments  
+- Collaborate across disciplines  
+
+---
+
+## Background
+
+- **Education**: Software Engineering (BSc), AI (MSc)  
+- **Interests**: ML, Neuroscience, Bioinformatics  
+- **Experience**: Backend & data pipelines  
+- **Languages**: English, French, Pythonic sarcasm  
+
+---
+
+## 📊 R Experience
+
+Used briefly for `ggplot2` and `dplyr`.  
+Keen to deepen skills in R's stats & bioinfo tools.
+
+---
+
+## Python Experience
+
+My main language.  
+Comfortable with:  
+- NumPy, pandas, SciPy  
+- scikit-learn, PyTorch  
+- Flask, FastAPI  
+- Jupyter
+
+Use it daily for data, ML, automation & side projects.
